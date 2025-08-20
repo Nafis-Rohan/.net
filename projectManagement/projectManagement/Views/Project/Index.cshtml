@@ -1,0 +1,24 @@
+﻿@model IEnumerable<projectManagement.DTOs.ProjectDTO>
+
+@{
+    ViewBag.Title = "Projects";
+}
+
+<h2>Projects</h2>
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-3 card" style="width: 18rem; margin:10px;">
+            <div class="card-body text-center">
+                <h5 class="card-title">@item.Title</h5>
+                <p class="card-text">
+                    Start Date: <span class="badge bg-primary">@item.StartDate.ToShortDateString()</span>
+                </p>
+                <p class="card-text">
+                    Supervisor ID: <span class="badge bg-primary">@item.SupervisorId</span>
+                </p>
+                @*<a href="/Supervisor/ConfirmTeam/@item.Id" class="btn btn-primary">Confirm Team</a>*@
+            </div>
+        </div>
+    }
+</div>

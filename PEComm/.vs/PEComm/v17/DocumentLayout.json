@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PEComm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|e:\\pecomm\\pecomm\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|solutionrelative:pecomm\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|e:\\pecomm\\pecomm\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|solutionrelative:pecomm\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|e:\\pecomm\\pecomm\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|solutionrelative:pecomm\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|e:\\pecomm\\pecomm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|solutionrelative:pecomm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|e:\\pecomm\\pecomm\\views\\order\\showcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|solutionrelative:pecomm\\views\\order\\showcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|e:\\pecomm\\pecomm\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|solutionrelative:pecomm\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|e:\\pecomm\\pecomm\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|solutionrelative:pecomm\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|e:\\pecomm\\pecomm\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|solutionrelative:pecomm\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|e:\\pecomm\\pecomm\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|solutionrelative:pecomm\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|e:\\pecomm\\pecomm\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|solutionrelative:pecomm\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|e:\\pecomm\\pecomm\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|solutionrelative:pecomm\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|e:\\pecomm\\pecomm\\enums\\statusenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|solutionrelative:pecomm\\enums\\statusenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|e:\\pecomm\\pecomm\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|solutionrelative:pecomm\\auth\\logged.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|e:\\pecomm\\pecomm\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|solutionrelative:pecomm\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|e:\\pecomm\\pecomm\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|solutionrelative:pecomm\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|e:\\pecomm\\pecomm\\ef\\pecomm.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|solutionrelative:pecomm\\ef\\pecomm.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|e:\\pecomm\\pecomm\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|solutionrelative:pecomm\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|E:\\PEComm\\pecomm\\ef\\pecomm.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{EBF5166C-28F5-4E4A-A312-79A3EFF23657}|PEComm\\PEComm.csproj|solutionrelative:pecomm\\ef\\pecomm.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\PEComm\\PEComm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PEComm\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\PEComm\\PEComm\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PEComm\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T21:13:49.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\PEComm\\PEComm\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "PEComm\\Views\\Order\\Details.cshtml",
+              "ToolTip": "E:\\PEComm\\PEComm\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "PEComm\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T21:09:47.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\PEComm\\PEComm\\Web.config",
+              "RelativeDocumentMoniker": "PEComm\\Web.config",
+              "ToolTip": "E:\\PEComm\\PEComm\\Web.config",
+              "RelativeToolTip": "PEComm\\Web.config",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-19T21:03:34.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\PEComm\\PEComm\\Views\\Web.config",
+              "RelativeDocumentMoniker": "PEComm\\Views\\Web.config",
+              "ToolTip": "E:\\PEComm\\PEComm\\Views\\Web.config",
+              "RelativeToolTip": "PEComm\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-19T21:03:30.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\PEComm\\PEComm\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "PEComm\\Views\\Login\\Index.cshtml",
+              "ToolTip": "E:\\PEComm\\PEComm\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "PEComm\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T20:31:32.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\PEComm\\PEComm\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "PEComm\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\PEComm\\PEComm\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "PEComm\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwC8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:27:31.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StatusEnums.cs",
+              "DocumentMoniker": "E:\\PEComm\\PEComm\\Enums\\StatusEnums.cs",
+              "RelativeDocumentMoniker": "PEComm\\Enums\\StatusEnums.cs",
+              "ToolTip": "E:\\PEComm\\PEComm\\Enums\\StatusEnums.cs",
+              "RelativeToolTip": "PEComm\\Enums\\StatusEnums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:24:43.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\PEComm\\PEComm\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "PEComm\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "E:\\PEComm\\PEComm\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "PEComm\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T20:23:04.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Logged.cs",
+              "DocumentMoniker": "E:\\PEComm\\PEComm\\Auth\\Logged.cs",
+              "RelativeDocumentMoniker": "PEComm\\Auth\\Logged.cs",
+              "ToolTip": "E:\\PEComm\\PEComm\\Auth\\Logged.cs",
+              "RelativeToolTip": "PEComm\\Auth\\Logged.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:14:31.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\PEComm\\PEComm\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "PEComm\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\PEComm\\PEComm\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "PEComm\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T20:11:54.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "E:\\PEComm\\PEComm\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "PEComm\\DTOs\\OrderDTO.cs",
+              "ToolTip": "E:\\PEComm\\PEComm\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "PEComm\\DTOs\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:34:30.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowCart.cshtml",
+              "DocumentMoniker": "E:\\PEComm\\PEComm\\Views\\Order\\ShowCart.cshtml",
+              "RelativeDocumentMoniker": "PEComm\\Views\\Order\\ShowCart.cshtml",
+              "ToolTip": "E:\\PEComm\\PEComm\\Views\\Order\\ShowCart.cshtml",
+              "RelativeToolTip": "PEComm\\Views\\Order\\ShowCart.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T12:30:08.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\PEComm\\PEComm\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "PEComm\\Views\\Order\\Index.cshtml",
+              "ToolTip": "E:\\PEComm\\PEComm\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "PEComm\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T11:18:18.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\PEComm\\PEComm\\EF\\Product.cs",
+              "RelativeDocumentMoniker": "PEComm\\EF\\Product.cs",
+              "ToolTip": "E:\\PEComm\\PEComm\\EF\\Product.cs",
+              "RelativeToolTip": "PEComm\\EF\\Product.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:00:15.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "E:\\PEComm\\PEComm\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "PEComm\\DTOs\\ProductDTO.cs",
+              "ToolTip": "E:\\PEComm\\PEComm\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "PEComm\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:26:09.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PEComm.Context.cs",
+              "DocumentMoniker": "E:\\PEComm\\PEComm\\EF\\PEComm.Context.cs",
+              "RelativeDocumentMoniker": "PEComm\\EF\\PEComm.Context.cs",
+              "ToolTip": "E:\\PEComm\\PEComm\\EF\\PEComm.Context.cs",
+              "RelativeToolTip": "PEComm\\EF\\PEComm.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T10:11:21.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\PEComm\\PEComm\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "PEComm\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\PEComm\\PEComm\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "PEComm\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAcwEIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T09:48:39.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PEComm.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\PEComm\\PEComm\\EF\\PEComm.edmx",
+              "RelativeDocumentMoniker": "PEComm\\EF\\PEComm.edmx",
+              "ToolTip": "E:\\PEComm\\PEComm\\EF\\PEComm.edmx [Diagram1]",
+              "RelativeToolTip": "PEComm\\EF\\PEComm.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-08-10T16:00:10.022Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

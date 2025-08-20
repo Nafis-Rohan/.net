@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="0ef1fbe0534243dc90e188dfa04cf742" Name="Diagram1" ZoomLevel="86">
+        <EntityTypeShape EntityType="ProjectDBModel.Member" Width="1.5" PointX="1" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectDBModel.ProjectMember" Width="2" PointX="5.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectDBModel.Status" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProjectDBModel.Supervisor" Width="1.5" PointX="5.125" PointY="1.875" IsExpanded="true" />
+        <AssociationConnector Association="ProjectDBModel.FK_ProjectMembers_Projects" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="ProjectDBModel.Project" Width="1.5" PointX="3.125" PointY="1" />
+        <AssociationConnector Association="ProjectDBModel.FK_ProjectMembers_Projects1" />
+        <AssociationConnector Association="ProjectDBModel.FK_Projects_Statuses" />
+        <AssociationConnector Association="ProjectDBModel.FK_Projects_Supervisors2" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

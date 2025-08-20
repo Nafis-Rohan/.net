@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DTO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|E:\\DTO\\dto\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|E:\\DTO\\dto\\dto\\departmentstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\dto\\departmentstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|E:\\DTO\\dto\\dto\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\dto\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|e:\\dto\\dto\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|e:\\dto\\dto\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\ef\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|e:\\dto\\dto\\ef\\stmgt.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\ef\\stmgt.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|e:\\dto\\dto\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|e:\\dto\\dto\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|e:\\dto\\dto\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|e:\\dto\\dto\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|e:\\dto\\dto\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|e:\\dto\\dto\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|e:\\dto\\dto\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|e:\\dto\\dto\\ef\\stmgt.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\ef\\stmgt.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|e:\\dto\\dto\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|e:\\dto\\dto\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|E:\\DTO\\dto\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|E:\\DTO\\dto\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|e:\\dto\\dto\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|e:\\dto\\dto\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|E:\\DTO\\dto\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7487F80C-B146-4FAD-AFA3-5E1CADD649F9}|DTO\\DTO.csproj|solutionrelative:dto\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "E:\\DTO\\DTO\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "DTO\\App_Start\\BundleConfig.cs",
+              "ToolTip": "E:\\DTO\\DTO\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "DTO\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T21:16:30.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\DTO\\DTO\\EF\\Student.cs",
+              "RelativeDocumentMoniker": "DTO\\EF\\Student.cs",
+              "ToolTip": "E:\\DTO\\DTO\\EF\\Student.cs*",
+              "RelativeToolTip": "DTO\\EF\\Student.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T21:08:06.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "E:\\DTO\\DTO\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "DTO\\App_Start\\FilterConfig.cs",
+              "ToolTip": "E:\\DTO\\DTO\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "DTO\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T21:05:06.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\DTO\\DTO\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "DTO\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\DTO\\DTO\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "DTO\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T21:05:03.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\DTO\\DTO\\Views\\Web.config",
+              "RelativeDocumentMoniker": "DTO\\Views\\Web.config",
+              "ToolTip": "E:\\DTO\\DTO\\Views\\Web.config",
+              "RelativeToolTip": "DTO\\Views\\Web.config",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-01T21:02:07.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "E:\\DTO\\DTO\\Web.Release.config",
+              "RelativeDocumentMoniker": "DTO\\Web.Release.config",
+              "ToolTip": "E:\\DTO\\DTO\\Web.Release.config",
+              "RelativeToolTip": "DTO\\Web.Release.config",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-01T21:01:53.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "E:\\DTO\\DTO\\Web.Debug.config",
+              "RelativeDocumentMoniker": "DTO\\Web.Debug.config",
+              "ToolTip": "E:\\DTO\\DTO\\Web.Debug.config",
+              "RelativeToolTip": "DTO\\Web.Debug.config",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-01T21:01:51.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\DTO\\DTO\\Web.config",
+              "RelativeDocumentMoniker": "DTO\\Web.config",
+              "ToolTip": "E:\\DTO\\DTO\\Web.config",
+              "RelativeToolTip": "DTO\\Web.config",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswEcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-01T21:00:42.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StMgt.Context.cs",
+              "DocumentMoniker": "E:\\DTO\\DTO\\EF\\StMgt.Context.cs",
+              "RelativeDocumentMoniker": "DTO\\EF\\StMgt.Context.cs",
+              "ToolTip": "E:\\DTO\\DTO\\EF\\StMgt.Context.cs",
+              "RelativeToolTip": "DTO\\EF\\StMgt.Context.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAtwBIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:48:15.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StMgt.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\DTO\\DTO\\EF\\StMgt.edmx",
+              "RelativeDocumentMoniker": "DTO\\EF\\StMgt.edmx",
+              "ToolTip": "E:\\DTO\\DTO\\EF\\StMgt.edmx [Diagram1]*",
+              "RelativeToolTip": "DTO\\EF\\StMgt.edmx [Diagram1]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-08-01T20:42:35.635Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\DTO\\DTO\\Views\\Department\\Details.cshtml",
+              "RelativeDocumentMoniker": "DTO\\Views\\Department\\Details.cshtml",
+              "ToolTip": "E:\\DTO\\DTO\\Views\\Department\\Details.cshtml",
+              "RelativeToolTip": "DTO\\Views\\Department\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-01T19:48:52.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\DTO\\DTO\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DTO\\Views\\Department\\Edit.cshtml",
+              "ToolTip": "E:\\DTO\\DTO\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "DTO\\Views\\Department\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-01T19:48:26.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DTO\\DTO\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "DTO\\Views\\Department\\Index.cshtml",
+              "ToolTip": "E:\\DTO\\DTO\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "DTO\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-01T19:46:34.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DTO\\DTO\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "DTO\\Views\\Student\\Index.cshtml",
+              "ToolTip": "E:\\DTO\\DTO\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "DTO\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-01T19:16:28.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "E:\\DTO\\DTO\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "DTO\\Controllers\\DepartmentController.cs",
+              "ToolTip": "E:\\DTO\\DTO\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "DTO\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAlwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:10:07.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentStudentDTO.cs",
+              "DocumentMoniker": "E:\\DTO\\DTO\\DTO\\DepartmentStudentDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO\\DepartmentStudentDTO.cs",
+              "ToolTip": "E:\\DTO\\DTO\\DTO\\DepartmentStudentDTO.cs",
+              "RelativeToolTip": "DTO\\DTO\\DepartmentStudentDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:29:07.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "E:\\DTO\\DTO\\DTO\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO\\StudentDTO.cs",
+              "ToolTip": "E:\\DTO\\DTO\\DTO\\StudentDTO.cs*",
+              "RelativeToolTip": "DTO\\DTO\\StudentDTO.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T18:27:30.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "E:\\DTO\\DTO\\DTO\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO\\DepartmentDTO.cs",
+              "ToolTip": "E:\\DTO\\DTO\\DTO\\DepartmentDTO.cs",
+              "RelativeToolTip": "DTO\\DTO\\DepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T16:23:31.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\DTO\\DTO\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "DTO\\Views\\Student\\Create.cshtml",
+              "ToolTip": "E:\\DTO\\DTO\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "DTO\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T15:59:41.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\DTO\\DTO\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DTO\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "E:\\DTO\\DTO\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "DTO\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T15:12:30.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\DTO\\DTO\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "DTO\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\DTO\\DTO\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "DTO\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:11:37.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

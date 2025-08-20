@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\projectManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|e:\\projectmanagement\\projectmanagement\\views\\supervisor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|solutionrelative:projectmanagement\\views\\supervisor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|e:\\projectmanagement\\projectmanagement\\controllers\\supervisorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|solutionrelative:projectmanagement\\controllers\\supervisorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|e:\\projectmanagement\\projectmanagement\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|solutionrelative:projectmanagement\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|e:\\projectmanagement\\projectmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|solutionrelative:projectmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|e:\\projectmanagement\\projectmanagement\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|solutionrelative:projectmanagement\\dtos\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|e:\\projectmanagement\\projectmanagement\\ef\\projectmgt.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|solutionrelative:projectmanagement\\ef\\projectmgt.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|e:\\projectmanagement\\projectmanagement\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|solutionrelative:projectmanagement\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|E:\\projectManagement\\projectmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|solutionrelative:projectmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|e:\\projectmanagement\\projectmanagement\\ef\\projectmgt.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|solutionrelative:projectmanagement\\ef\\projectmgt.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|e:\\projectmanagement\\projectmanagement\\enums\\projectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|solutionrelative:projectmanagement\\enums\\projectstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|e:\\projectmanagement\\projectmanagement\\ef\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|solutionrelative:projectmanagement\\ef\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|e:\\projectmanagement\\projectmanagement\\ef\\projectmgt.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|solutionrelative:projectmanagement\\ef\\projectmgt.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|e:\\projectmanagement\\projectmanagement\\dtos\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|solutionrelative:projectmanagement\\dtos\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|e:\\projectmanagement\\projectmanagement\\ef\\projectmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|solutionrelative:projectmanagement\\ef\\projectmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|e:\\projectmanagement\\projectmanagement\\ef\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|solutionrelative:projectmanagement\\ef\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|e:\\projectmanagement\\projectmanagement\\ef\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB09D00D-EC6C-4227-87BE-8208F70E9046}|projectManagement\\projectManagement.csproj|solutionrelative:projectmanagement\\ef\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\projectManagement\\projectManagement\\Views\\Supervisor\\Index.cshtml",
+              "RelativeDocumentMoniker": "projectManagement\\Views\\Supervisor\\Index.cshtml",
+              "ToolTip": "E:\\projectManagement\\projectManagement\\Views\\Supervisor\\Index.cshtml*",
+              "RelativeToolTip": "projectManagement\\Views\\Supervisor\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T22:59:20.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SupervisorController.cs",
+              "DocumentMoniker": "E:\\projectManagement\\projectManagement\\Controllers\\SupervisorController.cs",
+              "RelativeDocumentMoniker": "projectManagement\\Controllers\\SupervisorController.cs",
+              "ToolTip": "E:\\projectManagement\\projectManagement\\Controllers\\SupervisorController.cs",
+              "RelativeToolTip": "projectManagement\\Controllers\\SupervisorController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:56:33.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\projectManagement\\projectManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "projectManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\projectManagement\\projectManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "projectManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T22:50:32.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\projectManagement\\projectManagement\\Views\\Project\\Index.cshtml",
+              "RelativeDocumentMoniker": "projectManagement\\Views\\Project\\Index.cshtml",
+              "ToolTip": "E:\\projectManagement\\projectManagement\\Views\\Project\\Index.cshtml",
+              "RelativeToolTip": "projectManagement\\Views\\Project\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T22:42:13.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Status.cs",
+              "DocumentMoniker": "E:\\projectManagement\\projectManagement\\EF\\Status.cs",
+              "RelativeDocumentMoniker": "projectManagement\\EF\\Status.cs",
+              "ToolTip": "E:\\projectManagement\\projectManagement\\EF\\Status.cs",
+              "RelativeToolTip": "projectManagement\\EF\\Status.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:29:15.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectStatus.cs",
+              "DocumentMoniker": "E:\\projectManagement\\projectManagement\\Enums\\ProjectStatus.cs",
+              "RelativeDocumentMoniker": "projectManagement\\Enums\\ProjectStatus.cs",
+              "ToolTip": "E:\\projectManagement\\projectManagement\\Enums\\ProjectStatus.cs",
+              "RelativeToolTip": "projectManagement\\Enums\\ProjectStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:27:09.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectMgt.Context.cs",
+              "DocumentMoniker": "E:\\projectManagement\\projectManagement\\EF\\ProjectMgt.Context.cs",
+              "RelativeDocumentMoniker": "projectManagement\\EF\\ProjectMgt.Context.cs",
+              "ToolTip": "E:\\projectManagement\\projectManagement\\EF\\ProjectMgt.Context.cs",
+              "RelativeToolTip": "projectManagement\\EF\\ProjectMgt.Context.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:13:13.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectMgt.Context.tt",
+              "DocumentMoniker": "E:\\projectManagement\\projectManagement\\EF\\ProjectMgt.Context.tt",
+              "RelativeDocumentMoniker": "projectManagement\\EF\\ProjectMgt.Context.tt",
+              "ToolTip": "E:\\projectManagement\\projectManagement\\EF\\ProjectMgt.Context.tt",
+              "RelativeToolTip": "projectManagement\\EF\\ProjectMgt.Context.tt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-19T22:13:11.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "E:\\projectManagement\\projectManagement\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "projectManagement\\Controllers\\ProjectController.cs",
+              "ToolTip": "E:\\projectManagement\\projectManagement\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "projectManagement\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:13:04.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProjectMember.cs",
+              "DocumentMoniker": "E:\\projectManagement\\projectManagement\\EF\\ProjectMember.cs",
+              "RelativeDocumentMoniker": "projectManagement\\EF\\ProjectMember.cs",
+              "ToolTip": "E:\\projectManagement\\projectManagement\\EF\\ProjectMember.cs",
+              "RelativeToolTip": "projectManagement\\EF\\ProjectMember.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:02:55.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Member.cs",
+              "DocumentMoniker": "E:\\projectManagement\\projectManagement\\EF\\Member.cs",
+              "RelativeDocumentMoniker": "projectManagement\\EF\\Member.cs",
+              "ToolTip": "E:\\projectManagement\\projectManagement\\EF\\Member.cs",
+              "RelativeToolTip": "projectManagement\\EF\\Member.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:02:27.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MemberDTO.cs",
+              "DocumentMoniker": "E:\\projectManagement\\projectManagement\\DTOs\\MemberDTO.cs",
+              "RelativeDocumentMoniker": "projectManagement\\DTOs\\MemberDTO.cs",
+              "ToolTip": "E:\\projectManagement\\projectManagement\\DTOs\\MemberDTO.cs",
+              "RelativeToolTip": "projectManagement\\DTOs\\MemberDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:02:21.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Project.cs",
+              "DocumentMoniker": "E:\\projectManagement\\projectManagement\\EF\\Project.cs",
+              "RelativeDocumentMoniker": "projectManagement\\EF\\Project.cs",
+              "ToolTip": "E:\\projectManagement\\projectManagement\\EF\\Project.cs",
+              "RelativeToolTip": "projectManagement\\EF\\Project.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:01:36.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectDTO.cs",
+              "DocumentMoniker": "E:\\projectManagement\\projectManagement\\DTOs\\ProjectDTO.cs",
+              "RelativeDocumentMoniker": "projectManagement\\DTOs\\ProjectDTO.cs",
+              "ToolTip": "E:\\projectManagement\\projectManagement\\DTOs\\ProjectDTO.cs",
+              "RelativeToolTip": "projectManagement\\DTOs\\ProjectDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T22:01:18.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\projectManagement\\projectManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "projectManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\projectManagement\\projectManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "projectManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T07:34:20.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectMgt.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\projectManagement\\projectManagement\\EF\\ProjectMgt.edmx",
+              "RelativeDocumentMoniker": "projectManagement\\EF\\ProjectMgt.edmx",
+              "ToolTip": "E:\\projectManagement\\projectManagement\\EF\\ProjectMgt.edmx [Diagram1]",
+              "RelativeToolTip": "projectManagement\\EF\\ProjectMgt.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-08-03T07:15:16.4Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

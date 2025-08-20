@@ -1,0 +1,23 @@
+﻿@model IEnumerable<projectManagement.DTOs.ProjectDTO>
+
+<h2>Supervisor Projects</h2>
+
+<table class="table">
+    <tr>
+        <th>Title</th>
+        <th>Start Date</th>
+        <th>Status</th>
+        <th>Action</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Title</td>
+            <td>@item.StartDate.ToShortDateString()</td>
+            <td>@((projectManagement.Enums.ProjectStatus)item.StatusId)</td>
+            <td>
+                <a href="/Supervisor/ConfirmTeam/@item.Id" class="btn btn-sm btn-success">Confirm Team</a>
+            </td>
+        </tr>
+    }
+</table>

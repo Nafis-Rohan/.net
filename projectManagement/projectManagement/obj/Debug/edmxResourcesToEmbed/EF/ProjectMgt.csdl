@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProjectDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Member">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="ProjectMembers" Relationship="Self.FK_ProjectMembers_Projects" FromRole="Members" ToRole="ProjectMembers" />
+  </EntityType>
+  <EntityType Name="ProjectMember">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProjectId" Type="Int32" Nullable="false" />
+    <Property Name="MemberId" Type="Int32" Nullable="false" />
+    <Property Name="isConfirmedBySupervisor" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Member" Relationship="Self.FK_ProjectMembers_Projects" FromRole="ProjectMembers" ToRole="Members" />
+    <NavigationProperty Name="Project" Relationship="ProjectDBModel.FK_ProjectMembers_Projects1" FromRole="ProjectMember" ToRole="Project" />
+  </EntityType>
+  <EntityType Name="Status">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Projects" Relationship="ProjectDBModel.FK_Projects_Statuses" FromRole="Status" ToRole="Project" />
+  </EntityType>
+  <EntityType Name="Supervisor">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Projects" Relationship="ProjectDBModel.FK_Projects_Supervisors2" FromRole="Supervisor" ToRole="Project" />
+  </EntityType>
+  <Association Name="FK_ProjectMembers_Projects">
+    <End Role="Members" Type="Self.Member" Multiplicity="1" />
+    <End Role="ProjectMembers" Type="Self.ProjectMember" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Members">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProjectMembers">
+        <PropertyRef Name="MemberId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ProjectDBEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Members" EntityType="Self.Member" />
+    <EntitySet Name="ProjectMembers" EntityType="Self.ProjectMember" />
+    <EntitySet Name="Statuses" EntityType="Self.Status" />
+    <EntitySet Name="Supervisors" EntityType="Self.Supervisor" />
+    <AssociationSet Name="FK_ProjectMembers_Projects" Association="Self.FK_ProjectMembers_Projects">
+      <End Role="Members" EntitySet="Members" />
+      <End Role="ProjectMembers" EntitySet="ProjectMembers" />
+    </AssociationSet>
+    <EntitySet Name="Projects" EntityType="ProjectDBModel.Project" />
+    <AssociationSet Name="FK_ProjectMembers_Projects1" Association="ProjectDBModel.FK_ProjectMembers_Projects1">
+      <End Role="Project" EntitySet="Projects" />
+      <End Role="ProjectMember" EntitySet="ProjectMembers" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Projects_Statuses" Association="ProjectDBModel.FK_Projects_Statuses">
+      <End Role="Status" EntitySet="Statuses" />
+      <End Role="Project" EntitySet="Projects" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Projects_Supervisors2" Association="ProjectDBModel.FK_Projects_Supervisors2">
+      <End Role="Supervisor" EntitySet="Supervisors" />
+      <End Role="Project" EntitySet="Projects" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Project">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="StatusId" Type="Int32" Nullable="false" />
+    <Property Name="StartDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="ComputionDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="SupervisorId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="ProjectMembers" Relationship="ProjectDBModel.FK_ProjectMembers_Projects1" FromRole="Project" ToRole="ProjectMember" />
+    <NavigationProperty Name="Status" Relationship="ProjectDBModel.FK_Projects_Statuses" FromRole="Project" ToRole="Status" />
+    <NavigationProperty Name="Supervisor" Relationship="ProjectDBModel.FK_Projects_Supervisors2" FromRole="Project" ToRole="Supervisor" />
+  </EntityType>
+  <Association Name="FK_ProjectMembers_Projects1">
+    <End Type="ProjectDBModel.Project" Role="Project" Multiplicity="1" />
+    <End Type="ProjectDBModel.ProjectMember" Role="ProjectMember" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Project">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="ProjectMember">
+        <PropertyRef Name="ProjectId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Projects_Statuses">
+    <End Type="ProjectDBModel.Status" Role="Status" Multiplicity="1" />
+    <End Type="ProjectDBModel.Project" Role="Project" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Status">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Project">
+        <PropertyRef Name="StatusId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Projects_Supervisors2">
+    <End Type="ProjectDBModel.Supervisor" Role="Supervisor" Multiplicity="1" />
+    <End Type="ProjectDBModel.Project" Role="Project" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Supervisor">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Project">
+        <PropertyRef Name="SupervisorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
