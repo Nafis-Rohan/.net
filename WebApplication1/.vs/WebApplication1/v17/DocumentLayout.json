@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\WebApplication1\\",
+  "WorkspaceRootPath": "D:\\for  git\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|E:\\WebApplication1\\webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|d:\\for  git\\webapplication1\\webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|E:\\WebApplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|D:\\for  git\\WebApplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|e:\\webapplication1\\webapplication1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|D:\\for  git\\WebApplication1\\webapplication1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|E:\\WebApplication1\\webapplication1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|D:\\for  git\\WebApplication1\\webapplication1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|E:\\WebApplication1\\webapplication1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|D:\\for  git\\WebApplication1\\webapplication1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|e:\\webapplication1\\webapplication1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|D:\\for  git\\WebApplication1\\webapplication1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|E:\\WebApplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|D:\\for  git\\WebApplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D272B09-5D3C-4682-AF95-B32E20785C32}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,76 +44,71 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "About.cshtml",
-              "DocumentMoniker": "E:\\WebApplication1\\WebApplication1\\Views\\Home\\About.cshtml",
+              "DocumentMoniker": "D:\\for  git\\WebApplication1\\WebApplication1\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\About.cshtml",
-              "ToolTip": "E:\\WebApplication1\\WebApplication1\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\for  git\\WebApplication1\\WebApplication1\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Home\\About.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-19T13:30:33.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T13:30:33.242Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\for  git\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\for  git\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-19T09:28:56.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T09:28:56.191Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MyLayout.cshtml",
-              "DocumentMoniker": "E:\\WebApplication1\\WebApplication1\\Views\\Shared\\MyLayout.cshtml",
+              "DocumentMoniker": "D:\\for  git\\WebApplication1\\WebApplication1\\Views\\Shared\\MyLayout.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\MyLayout.cshtml",
-              "ToolTip": "E:\\WebApplication1\\WebApplication1\\Views\\Shared\\MyLayout.cshtml",
+              "ToolTip": "D:\\for  git\\WebApplication1\\WebApplication1\\Views\\Shared\\MyLayout.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\MyLayout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-19T09:26:17.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T09:26:17.282Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\WebApplication1\\WebApplication1\\Views\\Student\\Create.cshtml",
+              "DocumentMoniker": "D:\\for  git\\WebApplication1\\WebApplication1\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Student\\Create.cshtml",
-              "ToolTip": "E:\\WebApplication1\\WebApplication1\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\for  git\\WebApplication1\\WebApplication1\\Views\\Student\\Create.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Student\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-19T08:27:37.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T08:27:37.53Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\WebApplication1\\WebApplication1\\Views\\Student\\Index.cshtml",
+              "DocumentMoniker": "D:\\for  git\\WebApplication1\\WebApplication1\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Student\\Index.cshtml",
-              "ToolTip": "E:\\WebApplication1\\WebApplication1\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\for  git\\WebApplication1\\WebApplication1\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Student\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-19T08:23:10.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T08:23:10.749Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "E:\\WebApplication1\\WebApplication1\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "D:\\for  git\\WebApplication1\\WebApplication1\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\StudentController.cs",
-              "ToolTip": "E:\\WebApplication1\\WebApplication1\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\for  git\\WebApplication1\\WebApplication1\\Controllers\\StudentController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-19T08:21:28.69Z",
               "EditorCaption": ""
@@ -122,14 +117,13 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\for  git\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
-              "ToolTip": "E:\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\for  git\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T07:53:09.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T07:53:09.242Z"
             }
           ]
         }

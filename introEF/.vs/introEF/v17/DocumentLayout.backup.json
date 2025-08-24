@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "E:\\introEF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|E:\\introEF\\introef\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|e:\\introef\\introef\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|solutionrelative:introef\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|e:\\introef\\introef\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|E:\\introEF\\introef\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|solutionrelative:introef\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -78,8 +78,7 @@
               "RelativeToolTip": "introEF\\Views\\Product\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-26T05:57:16.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T05:57:16.282Z"
             },
             {
               "$type": "Document",
@@ -125,7 +124,7 @@
               "RelativeDocumentMoniker": "introEF\\Controllers\\ProductController.cs",
               "ToolTip": "E:\\introEF\\introEF\\Controllers\\ProductController.cs",
               "RelativeToolTip": "introEF\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCgAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-26T05:34:35.256Z",
               "EditorCaption": ""

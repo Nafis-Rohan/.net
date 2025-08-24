@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\introEF\\",
+  "WorkspaceRootPath": "D:\\for  git\\introEF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|e:\\introef\\introef\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|d:\\for  git\\introef\\introef\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|solutionrelative:introef\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|E:\\introEF\\introef\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|D:\\for  git\\introEF\\introef\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|solutionrelative:introef\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|E:\\introEF\\introef\\ef\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|D:\\for  git\\introEF\\introef\\ef\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|solutionrelative:introef\\ef\\model1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|E:\\introEF\\introef\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|D:\\for  git\\introEF\\introef\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|solutionrelative:introef\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|E:\\introEF\\introef\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|D:\\for  git\\introEF\\introef\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|solutionrelative:introef\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|E:\\introEF\\introef\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|D:\\for  git\\introEF\\introef\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|solutionrelative:introef\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|E:\\introEF\\introef\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|D:\\for  git\\introEF\\introef\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|solutionrelative:introef\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|E:\\introEF\\introef\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|D:\\for  git\\introEF\\introef\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{6D3B7B35-62FF-44EB-B2E4-AD8AE72CE63A}|introEF\\introEF.csproj|solutionrelative:introef\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Product.cs",
-              "DocumentMoniker": "E:\\introEF\\introEF\\EF\\Product.cs",
+              "DocumentMoniker": "D:\\for  git\\introEF\\introEF\\EF\\Product.cs",
               "RelativeDocumentMoniker": "introEF\\EF\\Product.cs",
-              "ToolTip": "E:\\introEF\\introEF\\EF\\Product.cs",
+              "ToolTip": "D:\\for  git\\introEF\\introEF\\EF\\Product.cs",
               "RelativeToolTip": "introEF\\EF\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\introEF\\introEF\\Views\\Product\\Edit.cshtml",
+              "DocumentMoniker": "D:\\for  git\\introEF\\introEF\\Views\\Product\\Edit.cshtml",
               "RelativeDocumentMoniker": "introEF\\Views\\Product\\Edit.cshtml",
-              "ToolTip": "E:\\introEF\\introEF\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\for  git\\introEF\\introEF\\Views\\Product\\Edit.cshtml",
               "RelativeToolTip": "introEF\\Views\\Product\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -72,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\introEF\\introEF\\Views\\Product\\Create.cshtml",
+              "DocumentMoniker": "D:\\for  git\\introEF\\introEF\\Views\\Product\\Create.cshtml",
               "RelativeDocumentMoniker": "introEF\\Views\\Product\\Create.cshtml",
-              "ToolTip": "E:\\introEF\\introEF\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\for  git\\introEF\\introEF\\Views\\Product\\Create.cshtml",
               "RelativeToolTip": "introEF\\Views\\Product\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -84,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\introEF\\introEF\\Views\\Product\\Index.cshtml",
+              "DocumentMoniker": "D:\\for  git\\introEF\\introEF\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "introEF\\Views\\Product\\Index.cshtml",
-              "ToolTip": "E:\\introEF\\introEF\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\for  git\\introEF\\introEF\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "introEF\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -96,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Model1.Designer.cs",
-              "DocumentMoniker": "E:\\introEF\\introEF\\EF\\Model1.Designer.cs",
+              "DocumentMoniker": "D:\\for  git\\introEF\\introEF\\EF\\Model1.Designer.cs",
               "RelativeDocumentMoniker": "introEF\\EF\\Model1.Designer.cs",
-              "ToolTip": "E:\\introEF\\introEF\\EF\\Model1.Designer.cs",
+              "ToolTip": "D:\\for  git\\introEF\\introEF\\EF\\Model1.Designer.cs",
               "RelativeToolTip": "introEF\\EF\\Model1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,9 +108,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Model1.Context.cs",
-              "DocumentMoniker": "E:\\introEF\\introEF\\EF\\Model1.Context.cs",
+              "DocumentMoniker": "D:\\for  git\\introEF\\introEF\\EF\\Model1.Context.cs",
               "RelativeDocumentMoniker": "introEF\\EF\\Model1.Context.cs",
-              "ToolTip": "E:\\introEF\\introEF\\EF\\Model1.Context.cs",
+              "ToolTip": "D:\\for  git\\introEF\\introEF\\EF\\Model1.Context.cs",
               "RelativeToolTip": "introEF\\EF\\Model1.Context.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -120,9 +120,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\introEF\\introEF\\Controllers\\ProductController.cs",
+              "DocumentMoniker": "D:\\for  git\\introEF\\introEF\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "introEF\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\introEF\\introEF\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\for  git\\introEF\\introEF\\Controllers\\ProductController.cs",
               "RelativeToolTip": "introEF\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,10 +133,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "E:\\introEF\\introEF\\EF\\Model1.edmx",
+              "DocumentMoniker": "D:\\for  git\\introEF\\introEF\\EF\\Model1.edmx",
               "RelativeDocumentMoniker": "introEF\\EF\\Model1.edmx",
               "ToolTip": "E:\\introEF\\introEF\\EF\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "introEF\\EF\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
               "WhenOpened": "2025-07-26T05:26:44.637Z"
             }

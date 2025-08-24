@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\examPrac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A24D6320-3F32-471D-BC7C-F91C85E36D62}|examPrac\\examPrac.csproj|e:\\examprac\\examprac\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24D6320-3F32-471D-BC7C-F91C85E36D62}|examPrac\\examPrac.csproj|solutionrelative:examprac\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24D6320-3F32-471D-BC7C-F91C85E36D62}|examPrac\\examPrac.csproj|e:\\examprac\\examprac\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24D6320-3F32-471D-BC7C-F91C85E36D62}|examPrac\\examPrac.csproj|solutionrelative:examprac\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24D6320-3F32-471D-BC7C-F91C85E36D62}|examPrac\\examPrac.csproj|e:\\examprac\\examprac\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A24D6320-3F32-471D-BC7C-F91C85E36D62}|examPrac\\examPrac.csproj|solutionrelative:examprac\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "E:\\examPrac\\examPrac\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "examPrac\\Controllers\\RegistrationController.cs",
+              "ToolTip": "E:\\examPrac\\examPrac\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "examPrac\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T07:37:35.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "E:\\examPrac\\examPrac\\EF\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "examPrac\\EF\\Model1.Context.cs",
+              "ToolTip": "E:\\examPrac\\examPrac\\EF\\Model1.Context.cs",
+              "RelativeToolTip": "examPrac\\EF\\Model1.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T07:25:23.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\examPrac\\examPrac\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "examPrac\\EF\\Model1.edmx",
+              "ToolTip": "E:\\examPrac\\examPrac\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "examPrac\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-08-24T07:17:19.005Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
