@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ZeroHungerDBMSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CollectReq">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FoodName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="RId" Type="Int32" Nullable="false" />
+    <Property Name="MaxPresTime" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="StatusId" Type="Int32" Nullable="false" />
+    <Property Name="EmpId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Employee" Relationship="Self.FK_CollectReq_Employee" FromRole="CollectReq" ToRole="Employee" />
+    <NavigationProperty Name="Restaurent" Relationship="Self.FK_CollectReq_Restaurent" FromRole="CollectReq" ToRole="Restaurent" />
+    <NavigationProperty Name="Status" Relationship="Self.FK_CollectReq_Status" FromRole="CollectReq" ToRole="Status" />
+  </EntityType>
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="CollectReqs" Relationship="Self.FK_CollectReq_Employee" FromRole="Employee" ToRole="CollectReq" />
+  </EntityType>
+  <EntityType Name="NGO">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Restaurent">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="CollectReqs" Relationship="Self.FK_CollectReq_Restaurent" FromRole="Restaurent" ToRole="CollectReq" />
+  </EntityType>
+  <EntityType Name="Status">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="CollectReqs" Relationship="Self.FK_CollectReq_Status" FromRole="Status" ToRole="CollectReq" />
+  </EntityType>
+  <Association Name="FK_CollectReq_Employee">
+    <End Role="Employee" Type="Self.Employee" Multiplicity="1" />
+    <End Role="CollectReq" Type="Self.CollectReq" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employee">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CollectReq">
+        <PropertyRef Name="EmpId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CollectReq_Restaurent">
+    <End Role="Restaurent" Type="Self.Restaurent" Multiplicity="1" />
+    <End Role="CollectReq" Type="Self.CollectReq" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Restaurent">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CollectReq">
+        <PropertyRef Name="RId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CollectReq_Status">
+    <End Role="Status" Type="Self.Status" Multiplicity="1" />
+    <End Role="CollectReq" Type="Self.CollectReq" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Status">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CollectReq">
+        <PropertyRef Name="StatusId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ZeroHungerDBMSEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CollectReqs" EntityType="Self.CollectReq" />
+    <EntitySet Name="Employees" EntityType="Self.Employee" />
+    <EntitySet Name="NGOes" EntityType="Self.NGO" />
+    <EntitySet Name="Restaurents" EntityType="Self.Restaurent" />
+    <EntitySet Name="Status" EntityType="Self.Status" />
+    <AssociationSet Name="FK_CollectReq_Employee" Association="Self.FK_CollectReq_Employee">
+      <End Role="Employee" EntitySet="Employees" />
+      <End Role="CollectReq" EntitySet="CollectReqs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CollectReq_Restaurent" Association="Self.FK_CollectReq_Restaurent">
+      <End Role="Restaurent" EntitySet="Restaurents" />
+      <End Role="CollectReq" EntitySet="CollectReqs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CollectReq_Status" Association="Self.FK_CollectReq_Status">
+      <End Role="Status" EntitySet="Status" />
+      <End Role="CollectReq" EntitySet="CollectReqs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
