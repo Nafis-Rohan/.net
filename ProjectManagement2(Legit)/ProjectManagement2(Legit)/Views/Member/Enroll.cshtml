@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Enroll";
+}
+
+<h2>Enroll</h2>
+
+
+<form method="post" action="/Member/Enroll/">
+    <input type="hidden" name="ProjectId" value="@Model.Id">
+
+    @foreach (var item in ViewBag.Members)
+    {
+
+        <label style="display:block;">
+            <input type="checkbox" name="memberIds" value="@item.Id" />
+            @item.Name
+        </label>
+    }
+
+    <button type="submit">Enroll selected</button>
+</form>

@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.netSum25_A\\Form Submission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCEDBE-64FC-436D-BE52-01331F31CCFD}|Form Submission\\Form Submission.csproj|E:\\.netSum25_A\\Form Submission\\form submission\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FCEDBE-64FC-436D-BE52-01331F31CCFD}|Form Submission\\Form Submission.csproj|solutionrelative:form submission\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCEDBE-64FC-436D-BE52-01331F31CCFD}|Form Submission\\Form Submission.csproj|e:\\.netsum25_a\\form submission\\form submission\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90FCEDBE-64FC-436D-BE52-01331F31CCFD}|Form Submission\\Form Submission.csproj|solutionrelative:form submission\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCEDBE-64FC-436D-BE52-01331F31CCFD}|Form Submission\\Form Submission.csproj|E:\\.netSum25_A\\Form Submission\\form submission\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FCEDBE-64FC-436D-BE52-01331F31CCFD}|Form Submission\\Form Submission.csproj|solutionrelative:form submission\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCEDBE-64FC-436D-BE52-01331F31CCFD}|Form Submission\\Form Submission.csproj|E:\\.netSum25_A\\Form Submission\\form submission\\models\\dobvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FCEDBE-64FC-436D-BE52-01331F31CCFD}|Form Submission\\Form Submission.csproj|solutionrelative:form submission\\models\\dobvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCEDBE-64FC-436D-BE52-01331F31CCFD}|Form Submission\\Form Submission.csproj|E:\\.netSum25_A\\Form Submission\\form submission\\models\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FCEDBE-64FC-436D-BE52-01331F31CCFD}|Form Submission\\Form Submission.csproj|solutionrelative:form submission\\models\\emailvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailValidation.cs",
+              "DocumentMoniker": "E:\\.netSum25_A\\Form Submission\\Form Submission\\Models\\EmailValidation.cs",
+              "RelativeDocumentMoniker": "Form Submission\\Models\\EmailValidation.cs",
+              "ToolTip": "E:\\.netSum25_A\\Form Submission\\Form Submission\\Models\\EmailValidation.cs",
+              "RelativeToolTip": "Form Submission\\Models\\EmailValidation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T15:15:34.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DobValidation.cs",
+              "DocumentMoniker": "E:\\.netSum25_A\\Form Submission\\Form Submission\\Models\\DobValidation.cs",
+              "RelativeDocumentMoniker": "Form Submission\\Models\\DobValidation.cs",
+              "ToolTip": "E:\\.netSum25_A\\Form Submission\\Form Submission\\Models\\DobValidation.cs",
+              "RelativeToolTip": "Form Submission\\Models\\DobValidation.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T07:25:05.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\.netSum25_A\\Form Submission\\Form Submission\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Form Submission\\Models\\Student.cs",
+              "ToolTip": "E:\\.netSum25_A\\Form Submission\\Form Submission\\Models\\Student.cs",
+              "RelativeToolTip": "Form Submission\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:26:08.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\.netSum25_A\\Form Submission\\Form Submission\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Form Submission\\Views\\Student\\Create.cshtml",
+              "ToolTip": "E:\\.netSum25_A\\Form Submission\\Form Submission\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Form Submission\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T06:26:09.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\.netSum25_A\\Form Submission\\Form Submission\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Form Submission\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\.netSum25_A\\Form Submission\\Form Submission\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Form Submission\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T06:26:10.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

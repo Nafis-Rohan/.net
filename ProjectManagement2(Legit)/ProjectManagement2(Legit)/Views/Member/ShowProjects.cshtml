@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewBag.Title = "ShowProjects";
+}
+
+<h2>ShowProjects</h2>
+
+@if (Model != null)
+{
+    foreach (var item in Model)
+    {
+
+        <table class="table table-bordered">
+            <tr>
+                <th>ID</th>
+                <th>Title</th>
+                <th>Start Date</th>
+                <th>Compution Date</th>
+                <th>Status</th>
+                <th>Action</th>
+            </tr>
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Title</td>
+                <td>@item.StartDate</td>
+                <td>@item.ComputionDate</td>
+                @{
+                    ProjectManagement2_Legit_.Enums.ProjectStatus status = (ProjectManagement2_Legit_.Enums.ProjectStatus)item.StatusId;
+                }
+                <td>@status.ToString()</td>
+                <td>
+                    @if (item.StatusId == (int)ProjectManagement2_Legit_.Enums.ProjectStatus.Initiated ||
+                     (int)ProjectManagement2_Legit_.Enums.ProjectStatus.OnGoing)
+                    {
+
+                        <a href="/Member/Enroll/@item.Id" class="btn btn-danger">Enroll</a>
+                    }
+                        
+
+                </td>
+               
+
+            </tr>
+        </table>
+    }
+
+}
+else
+{
+    <h2>NO Data</h2>
+}

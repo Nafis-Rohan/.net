@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "OpenDetails";
+}
+
+<h2>OpenDetails</h2>
+
+
+
+@if (Model != null)
+{
+
+
+    <table class="table table-bordered">
+
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Start Date</th>
+            <th>Compution Date</th>
+            <th>Status</th>
+            
+        </tr>
+
+
+
+        <tr>
+            <td>@Model.Id</td>
+            <td>@Model.Title</td>
+            <td>@Model.StartDate</td>
+            <td>@Model.ComputionDate</td>
+            @{
+                ProjectManagement2_Legit_.Enums.ProjectStatus status = (ProjectManagement2_Legit_.Enums.ProjectStatus)Model.StatusId;
+            }
+            <td>@status.ToString()</td>> 
+        </tr>
+
+
+
+
+    </table>
+}
+else
+{
+    <h2>NO Data</h2>
+}
+

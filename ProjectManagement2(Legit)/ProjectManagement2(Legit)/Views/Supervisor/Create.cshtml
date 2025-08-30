@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+
+}
+
+<h2>Create</h2>
+
+<form method="post">
+    @foreach (var item in ViewBag.Supervisors)
+    {
+        <label>
+            <input type="radio" name="SupervisorID" value="@item.Id" />
+            @item.Name
+        </label><br />
+    }
+
+    <input type="text" name="Title" placeholder="Title" class="form-control">
+    <input type="date" name="StartDate" class="form-control" />
+    <input type="date" name="ComputionDate" class="form-control" />
+
+    <button type="submit">Submit</button>
+
+
+</form>
