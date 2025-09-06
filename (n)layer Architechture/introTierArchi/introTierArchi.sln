@@ -5,6 +5,10 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationAPI", "PresentationAPI\PresentationAPI.csproj", "{4D0A86D4-8F32-426A-9A26-F48E19CC658E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{77BE1534-28A9-4A5F-8797-14FA80BB1F4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{DDA800BA-B01F-4348-B436-AF97798D6D0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{4D0A86D4-8F32-426A-9A26-F48E19CC658E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D0A86D4-8F32-426A-9A26-F48E19CC658E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D0A86D4-8F32-426A-9A26-F48E19CC658E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77BE1534-28A9-4A5F-8797-14FA80BB1F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BE1534-28A9-4A5F-8797-14FA80BB1F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BE1534-28A9-4A5F-8797-14FA80BB1F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BE1534-28A9-4A5F-8797-14FA80BB1F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA800BA-B01F-4348-B436-AF97798D6D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA800BA-B01F-4348-B436-AF97798D6D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA800BA-B01F-4348-B436-AF97798D6D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA800BA-B01F-4348-B436-AF97798D6D0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
