@@ -52,13 +52,25 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="EF\tables\Department.cs" />
     <Compile Include="EF\tables\Student.cs" />
     <Compile Include="EF\tables\UMSContext.cs" />
+    <Compile Include="Migrations\202509070325046_UpDB.cs" />
+    <Compile Include="Migrations\202509070325046_UpDB.Designer.cs">
+      <DependentUpon>202509070325046_UpDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repos\StudentRepo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202509070325046_UpDB.resx">
+      <DependentUpon>202509070325046_UpDB.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

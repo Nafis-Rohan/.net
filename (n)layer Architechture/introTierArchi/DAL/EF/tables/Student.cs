@@ -16,7 +16,9 @@ namespace DAL.EF.tables
         [Column(TypeName ="VARCHAR")]
         public string Name { get; set; }
 
+        [ForeignKey("dept")]
         public int DId { get; set; }
+        public virtual Department dept { get; set; }
 
     }
 }

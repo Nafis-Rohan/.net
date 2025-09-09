@@ -1,0 +1,6 @@
+D:\clones\.net\(n)layer Architechture\introTierArchi\BLL\bin\Debug\BLL.dll
+D:\clones\.net\(n)layer Architechture\introTierArchi\BLL\bin\Debug\BLL.pdb
+D:\clones\.net\(n)layer Architechture\introTierArchi\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\clones\.net\(n)layer Architechture\introTierArchi\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\clones\.net\(n)layer Architechture\introTierArchi\BLL\obj\Debug\BLL.dll
+D:\clones\.net\(n)layer Architechture\introTierArchi\BLL\obj\Debug\BLL.pdb

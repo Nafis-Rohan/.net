@@ -1,0 +1,17 @@
+D:\clones\.net\(n)layer Architechture\ProductCategories\DAL\bin\Debug\DAL.dll.config
+D:\clones\.net\(n)layer Architechture\ProductCategories\DAL\bin\Debug\DAL.dll
+D:\clones\.net\(n)layer Architechture\ProductCategories\DAL\bin\Debug\DAL.pdb
+D:\clones\.net\(n)layer Architechture\ProductCategories\DAL\bin\Debug\EntityFramework.dll
+D:\clones\.net\(n)layer Architechture\ProductCategories\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\clones\.net\(n)layer Architechture\ProductCategories\DAL\bin\Debug\EntityFramework.xml
+D:\clones\.net\(n)layer Architechture\ProductCategories\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\clones\.net\(n)layer Architechture\ProductCategories\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\clones\.net\(n)layer Architechture\ProductCategories\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\clones\.net\(n)layer Architechture\ProductCategories\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\clones\.net\(n)layer Architechture\ProductCategories\DAL\obj\Debug\DAL.dll
+D:\clones\.net\(n)layer Architechture\ProductCategories\DAL\obj\Debug\DAL.pdb
+D:\clones\.net\(n)layer Architechture\ProductCategories\DAL\obj\Debug\DAL.Migrations.DbUp.resources
+D:\clones\.net\(n)layer Architechture\ProductCategories\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\clones\.net\(n)layer Architechture\ProductCategories\DAL\obj\Debug\DAL.Migrations.addCat.resources
+D:\clones\.net\(n)layer Architechture\ProductCategories\DAL\obj\Debug\DAL.Migrations.addPro.resources
+D:\clones\.net\(n)layer Architechture\ProductCategories\DAL\obj\Debug\DAL.Migrations.addPro1.resources

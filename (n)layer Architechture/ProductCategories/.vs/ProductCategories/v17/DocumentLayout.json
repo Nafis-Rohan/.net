@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3583BC81-2BBD-4507-A8C2-71B354E12562}|BLL\\BLL.csproj|D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3583BC81-2BBD-4507-A8C2-71B354E12562}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3583BC81-2BBD-4507-A8C2-71B354E12562}|BLL\\BLL.csproj|D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3583BC81-2BBD-4507-A8C2-71B354E12562}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\dal\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|d:\\clones\\.net\\(n)layer architechture\\productcategories\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\dal\\migrations\\202509070705437_addpro1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202509070705437_addpro1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\dal\\ef\\tables\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\dal\\ef\\tables\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\dal\\migrations\\202509070701450_addpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202509070701450_addpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\dal\\migrations\\202509070658189_addcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202509070658189_addcat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA8A8E5-A1EC-41EA-8A0C-59613C5B664D}|Presentation\\Presentation.csproj|D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\presentation\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2EA8A8E5-A1EC-41EA-8A0C-59613C5B664D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\dal\\migrations\\202509070619355_dbup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202509070619355_dbup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3583BC81-2BBD-4507-A8C2-71B354E12562}|BLL\\BLL.csproj|D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3583BC81-2BBD-4507-A8C2-71B354E12562}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F928AC9-C0B5-4CE1-9279-2BF6C04B7DFD}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\BLL\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ProductService.cs",
+              "ToolTip": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\BLL\\Services\\ProductService.cs",
+              "RelativeToolTip": "BLL\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T07:12:09.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "202509070705437_addPro1.cs",
+              "DocumentMoniker": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\Migrations\\202509070705437_addPro1.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202509070705437_addPro1.cs",
+              "ToolTip": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\Migrations\\202509070705437_addPro1.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202509070705437_addPro1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T07:05:49.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "202509070701450_addPro.cs",
+              "DocumentMoniker": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\Migrations\\202509070701450_addPro.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202509070701450_addPro.cs",
+              "ToolTip": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\Migrations\\202509070701450_addPro.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202509070701450_addPro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T07:01:50.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "202509070658189_addCat.cs",
+              "DocumentMoniker": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\Migrations\\202509070658189_addCat.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202509070658189_addCat.cs",
+              "ToolTip": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\Migrations\\202509070658189_addCat.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202509070658189_addCat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T06:58:22.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\BLL\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ProductDTO.cs",
+              "ToolTip": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\BLL\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T06:50:07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\Repos\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ProductRepo.cs",
+              "ToolTip": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\Repos\\ProductRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ProductRepo.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwDAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T06:25:29.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "202509070619355_DbUp.cs",
+              "DocumentMoniker": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\Migrations\\202509070619355_DbUp.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202509070619355_DbUp.cs",
+              "ToolTip": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\Migrations\\202509070619355_DbUp.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202509070619355_DbUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T06:19:50.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T06:19:03.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\Presentation\\Web.config",
+              "RelativeDocumentMoniker": "Presentation\\Web.config",
+              "ToolTip": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\Presentation\\Web.config",
+              "RelativeToolTip": "Presentation\\Web.config",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-07T06:10:56.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\App.config",
+              "RelativeDocumentMoniker": "DAL\\App.config",
+              "ToolTip": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\App.config",
+              "RelativeToolTip": "DAL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-07T06:06:30.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UMSContext.cs",
+              "DocumentMoniker": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\EF\\UMSContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\UMSContext.cs",
+              "ToolTip": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\EF\\UMSContext.cs",
+              "RelativeToolTip": "DAL\\EF\\UMSContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T06:04:18.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\EF\\tables\\Category.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\tables\\Category.cs",
+              "ToolTip": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\EF\\tables\\Category.cs",
+              "RelativeToolTip": "DAL\\EF\\tables\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T06:02:37.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\EF\\tables\\Product.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\tables\\Product.cs",
+              "ToolTip": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\EF\\tables\\Product.cs",
+              "RelativeToolTip": "DAL\\EF\\tables\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T05:57:58.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T05:56:16.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "D:\\clones\\.net\\(n)layer Architechture\\ProductCategories\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T05:55:51.468Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
